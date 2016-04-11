@@ -1,0 +1,2 @@
+- [https://en.wikipedia.org/wiki/Anomaly_detection](https://en.wikipedia.org/wiki/Anomaly_detection)
+- [http://www.slideshare.net/dataminingtools/anomaly-detection-2747825](http://www.slideshare.net/dataminingtools/anomaly-detection-2747825)
