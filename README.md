@@ -9,10 +9,11 @@
 ## Data Science: Anamoly Detection(2)
 ![Anamoly Detection 2](images/anamoly-detection-2.jpg)
 
-- Distance Based (KMeans)
-- Density Based(DBSCAN)
+Two ways to find anamolies with clustering
+- Cluster **big amount of data** with k-means and histograms
+- Apply clustering **independently to million of users**, to each identify the patterns with dbscan algorithm
 
-[ref](https://www.oreilly.com/learning/how-to-build-an-anomaly-detection-engine-with-spark-akka-and-cassandra)
+[ref](https://www.oreilly.com/learning/how-to-build-an-anomaly-detection-engine-with-spark-akka-and-cassandra), [github-ref](https://github.com/ranjankumar-gh/anomaly-detection)
 
 
 ## Proprietary Alternatives
