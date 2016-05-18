@@ -4,7 +4,8 @@
 > Hawkins, 1980
 
 ## Data Science: Anamoly Detection(1)
-![Anamoly Detection](images/anamoly-detection-1.png)
+![Anamoly Detection 1](images/anamoly-detection-1.png)
+![Anamoly Detection 2](anamoly-detection-2.jpg)
 [ref](https://www.oreilly.com/learning/how-to-build-an-anomaly-detection-engine-with-spark-akka-and-cassandra)
 
 
