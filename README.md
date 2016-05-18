@@ -9,6 +9,9 @@
 ## Data Science: Anamoly Detection(2)
 ![Anamoly Detection 2](images/anamoly-detection-2.jpg)
 
+- Distance Based (KMeans)
+- Density Based(DBSCAN)
+
 [ref](https://www.oreilly.com/learning/how-to-build-an-anomaly-detection-engine-with-spark-akka-and-cassandra)
 
 
